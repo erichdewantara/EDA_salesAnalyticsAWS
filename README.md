@@ -1,4 +1,4 @@
-# AMAZON WEB EXPLORATORY DATA ANALYSIS
+# AMAZON WEB SERVICES SALES ANALYSIS
 This dataset contains data from fictious B2B SaaS sales transaction from [Kaggle](https://www.kaggle.com/datasets/nnthanh101/aws-saas-sales), and therefore does not represent actual AWS data.
 
 ## Background
